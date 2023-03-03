@@ -8,3 +8,4 @@ it spans several lines of the page
 one = 3
 math = 1+one
 console.log("The result is: " + math)
+alert("The result is: "+math)
